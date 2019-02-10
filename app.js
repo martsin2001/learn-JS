@@ -1,2 +1,5 @@
-alert('Hello its branch "myroslav"!');
-alert('Im Andriyana!')
+let title = document.getElementById('title');
+
+function chengeColor() {
+    title.style.color = 'red'
+}
