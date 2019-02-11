@@ -1,7 +1,5 @@
-let title = document.getElementById('title');
+let login = document.getElementById('login');
+let passw = document.getElementById('passw');
+let submit = document.getElementById('submit');
 
-function changeColor() {
-    title.style.color = 'red'
-}
-
-setTimeout(changeColor(), 3000)
+console.log(login.value)
