@@ -9,3 +9,7 @@ document.getElementById('contact').addEventListener('click', function() {
 document.getElementById('about-us').addEventListener('click', function() {
     location.href = '../about-us/about-us.html'
 })
+
+document.getElementById('logout').addEventListener('click', function() {
+    location.href = '../index.html'
+})
