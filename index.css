@@ -1,0 +1,15 @@
+input{
+    padding: 7px 15px;
+    border-radius: 10px;
+    border: 2px solid lightgray;
+    outline: none;
+}
+input:focus{
+    border-color: rgb(111, 0, 255);
+}
+button{
+    padding: 7px 15px;
+    border: 1px solid gray;
+    outline: none;
+    cursor: pointer;
+}
