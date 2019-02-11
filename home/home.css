@@ -13,8 +13,14 @@ body,html{
 }
 .but-header{
     padding: 10px;
-
+    font-family: Ubuntu, sans-serif;
+    font-weight: 100;
+    cursor: pointer;
 }
+.but-header:hover{
+    color: lightgray;
+}
+
 .but-menu{
     display: flex;
 }
