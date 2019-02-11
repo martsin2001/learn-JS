@@ -1,5 +1,7 @@
 let title = document.getElementById('title');
 
-function chengeColor() {
+function changeColor() {
     title.style.color = 'red'
 }
+
+setTimeout(changeColor(), 3000)
