@@ -1,0 +1,26 @@
+body,html{
+    margin: 0px;
+}
+
+.header{
+    width: calc(100% - 30px);
+    height: auto;
+    padding: 5px 15px;
+    background: rgb(114, 26, 255);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+.but-header{
+    padding: 10px;
+    font-family: Ubuntu, sans-serif;
+    font-weight: 100;
+    cursor: pointer;
+}
+.but-header:hover{
+    color: lightgray;
+}
+
+.but-menu{
+    display: flex;
+}
