@@ -44,3 +44,19 @@ hr{
     width: 100px;
     margin: 0px;
 }
+
+.textAboutUs{
+    width: 100%;
+    display: flex;
+    padding: 20px;
+    border-left: 5px solid rgb(26, 250, 26);
+    margin-top: 70px;
+    border-bottom: 30px;
+}
+
+.margin-top{
+    display: flex;
+    padding: 70px;
+    border: 20px;
+}
+
