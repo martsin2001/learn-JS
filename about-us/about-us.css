@@ -46,17 +46,26 @@ hr{
 }
 
 .textAboutUs{
-    width: 100%;
+    width: 50%;
     display: flex;
     padding: 20px;
     border-left: 5px solid rgb(26, 250, 26);
-    margin-top: 70px;
+    margin-top: 64px;
     border-bottom: 30px;
+    background: rgba(0,0,0,0.04);
+    font-family: 'Anaheim';
 }
 
-.margin-top{
+.wrapper-text-about-us{
+    width: 100%;
+    height: auto;
     display: flex;
-    padding: 70px;
-    border: 20px;
+    justify-content: center;
 }
 
+.wrapper-foto{
+    width: 100%;
+    margin-top: 64px;
+    display: flex;
+    justify-content: center;
+}
