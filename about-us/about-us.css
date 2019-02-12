@@ -24,3 +24,23 @@ body,html{
 .but-menu{
     display: flex;
 }
+
+/* The end header */
+
+.title{
+    text-align: center;
+    margin-top: 64px;
+    font-family: 'Amita';
+    margin-bottom: 0px;
+}
+
+.wrapper-hr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+hr{
+    width: 100px;
+    margin: 0px;
+}
