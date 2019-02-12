@@ -24,3 +24,67 @@ body,html{
 .but-menu{
     display: flex;
 }
+
+/* The end header */
+
+.title{
+    margin-top: 64px;
+    margin-bottom: 0px;
+    height: auto;
+    padding: 5px 15px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Amita'
+}
+
+.but-title{
+    padding: 10px;
+    font-family: Ubuntu, sans-serif;
+    font-weight: 100;
+    cursor: pointer;
+}
+
+.wrapper-hr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.hr{
+    padding: 0px;
+    margin: 0px;
+    width: 30%
+}
+
+.conteinr-contact-data{
+    width: 100%;
+    padding: 5px 15px;
+    display: flex;
+    justify-content: center;
+}
+
+.contact-data{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper-hr{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+hr{
+    padding: 0px;
+    margin: 0px;
+    width: 30%;
+
+}
+
+.prefixes{
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+
+}
